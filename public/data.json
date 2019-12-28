@@ -1,0 +1,64 @@
+{
+    "showArr": [
+        {
+            "ISCOLECT":"1",
+            "TAGNAME":"还记录七号",
+            "TYPE": 
+                {
+                    "LABEL": [
+                        {
+                            "LABEL":"压力",
+                            "UNIT":"MPa",
+                            "ALERTTYPE":"压力上限",
+                            "VALVE": "0.023"
+                        }
+                    ]
+                }
+        },
+        {
+            "ISCOLECT":"1",
+            "TAGNAME":"还记录七号",
+            "TYPE": 
+                {
+                    "LABEL": [
+                        {
+                            "LABEL":"压力",
+                            "UNIT":"MPa",
+                            "ALERTTYPE":"压力上限",
+                            "VALVE": "0.023"
+                        }
+                    ]
+                }
+        },
+        {
+            "ISCOLECT":"1",
+            "TAGNAME":"还记录七号",
+            "TYPE": 
+                {
+                    "LABEL": [
+                        {
+                            "LABEL":"压力",
+                            "UNIT":"MPa",
+                            "ALERTTYPE":"压力上限",
+                            "VALVE": "0.023"
+                        }
+                    ]
+                }
+        },
+        {
+            "ISCOLECT":"1",
+            "TAGNAME":"还记录七号",
+            "TYPE": 
+                {
+                    "LABEL": [
+                        {
+                            "LABEL":"压力",
+                            "UNIT":"MPa",
+                            "ALERTTYPE":"压力上限",
+                            "VALVE": "0.023"
+                        }
+                    ]
+                }
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+
+        {
+          ISCOLLECT: "1", //是否收藏
+          TAGNAME: "海基七路海洋四路",
+          TYPE: {
+            LABEL: [
+              { LABEL: "压力", UNIT: "MPa", ALERTTYPE: "超时", VALUE: "0.023" }
+            ]
+          }
+        },
+        {
+          ISCOLLECT: "1",
+          TAGNAME: "海基七路海洋四路",
+          TYPE: {
+            LABEL: [
+              { LABEL: "压力", UNIT: "MPa", ALERTTYPE: "超时", VALUE: "0.023" }
+            ]
+          }
+        },
+        {
+          ISCOLLECT: "1",
+          TAGNAME: "海基七路海洋四路",
+          TYPE: {
+            LABEL: [
+              { LABEL: "压力", UNIT: "MPa", ALERTTYPE: "", VALUE: "0.023" }
+            ]
+          }
+        },
+        {
+          ISCOLLECT: "1",
+          TAGNAME: "海基七路海洋四路",
+          TYPE: {
+            LABEL: [
+              { LABEL: "压力", UNIT: "MPa", ALERTTYPE: "平值", VALUE: "0.023" }
+            ]
+          }
+        },
+        {
+          ISCOLLECT: "1",
+          TAGNAME: "海基七路海洋四路",
+          TYPE: {
+            LABEL: [
+              {
+                LABEL: "压力",
+                UNIT: "MPa",
+                ALERTTYPE: "压力下限",
+                VALUE: "0.023"
+              }
+            ]
+          }
+        },
+        {
+          ISCOLLECT: "1",
+          TAGNAME: "海基七路海洋四路",
+          TYPE: {
+            LABEL: [
+              { LABEL: "压力", UNIT: "MPa", ALERTTYPE: "零值", VALUE: "0.023" }
+            ]
+          }
+        },
+        {
+          ISCOLLECT: "1",
+          TAGNAME: "海基七路海洋四路",
+          TYPE: {
+            LABEL: [
+              {
+                LABEL: "压力",
+                UNIT: "MPa",
+                ALERTTYPE: "压力上限",
+                VALUE: "0.023"
+              }
+            ]
+          }
+        },
+        {
+          ISCOLLECT: "1",
+          TAGNAME: "海基七路海洋四路",
+          TYPE: {
+            LABEL: [
+              {
+                LABEL: "压力",
+                UNIT: "MPa",
+                ALERTTYPE: "压力上限",
+                VALUE: "0.023"
+              }
+            ]
+          }
+        },
+        {
+          ISCOLLECT: "1",
+          TAGNAME: "海基七路海洋四路",
+          TYPE: {
+            LABEL: [
+              { LABEL: "压力", UNIT: "MPa", ALERTTYPE: "零值", VALUE: "0.023" }
+            ]
+          }
+        },
+        {
+          ISCOLLECT: "1",
+          TAGNAME: "海基七路海洋四路",
+          TYPE: {
+            LABEL: [
+              {
+                LABEL: "压力",
+                UNIT: "MPa",
+                ALERTTYPE: "压力上限",
+                VALUE: "0.023"
+              }
+            ]
+          }
+        }
+      
