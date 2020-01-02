@@ -5,6 +5,8 @@
 npm install
 ```
 
+## 这是第一次在公司接手的项目，利用Vue框架的单组件开发
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
